@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DesainKP1
+</name>
+</assembly>
+<members>
+<member name="T:DesainKP1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.icons8_lock_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.Kementerian_Dalam_Negeri__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.Pegawai">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.pngwing_com">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.rsz_1kartuktp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.rsz_kk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.rsz_penduduk_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.Unlock_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.user_interface">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DesainKP1.My.Resources.Resources.User_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.ktpDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.kkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.data_pendudukDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.ktpRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.kkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.data_pendudukRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.ktpRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.kkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DesainKP1.DataSet1.data_pendudukRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>
